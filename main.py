@@ -4,6 +4,8 @@ from ase.io import read
 from ase.visualize import view
 from pymatgen.core import Structure
 
+#hello
+
 # sets here to the path of the py file
 here = Path(__file__).resolve().parent
 
